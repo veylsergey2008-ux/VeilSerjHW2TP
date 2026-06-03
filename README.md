@@ -5,12 +5,19 @@
 #Краткое описание 
 
 -Структура проекта:
+
  -src/
+ 
    -Dietaryecipe
+   
    -Ingredient
+   
    -Recipe
+   
    -ShoppingList
+   
    -test_recipes
+   
  -README
 
  ##Функционал проекта
