@@ -7,12 +7,19 @@
 ### Структура проекта
 
  src/
+ 
 │── DietaryRecipe.py
+
 │── Ingredient.py
+
 │── Recipe.py
+
 │── ShoppingList.py
+
 │── test_recipes.py
+
 .gitignore
+
 README.md
 
 
