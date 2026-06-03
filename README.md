@@ -2,23 +2,19 @@
 
 #Название проекта- дз2 по Технологиям программирования
 
-#Краткое описание 
+## Краткое описание
 
--Структура проекта:
+### Структура проекта
 
- -src/
- 
-   -Dietaryecipe
-   
-   -Ingredient
-   
-   -Recipe
-   
-   -ShoppingList
-   
-   -test_recipes
-   
- -README
+ src/
+│── DietaryRecipe.py
+│── Ingredient.py
+│── Recipe.py
+│── ShoppingList.py
+│── test_recipes.py
+.gitignore
+README.md
+
 
  ##Функционал проекта
  
