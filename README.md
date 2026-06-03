@@ -62,6 +62,16 @@ pytest
     -pytest
 
 
+## Установка
+
+git clone <repo>
+
+cd VeilSerjHW2TP
+
+pip install -r requirements.txt
+
+pytest
+
 ###Автор проекта - Вейль Сергей Романович ББИ2503
 
 
